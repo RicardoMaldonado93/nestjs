@@ -1,0 +1,9 @@
+[submodule "ws-client"]
+	path = ws-client
+	url = git@github.com-RicardoMaldonado93:RicardoMaldonado93/socket-client-nestjs.git
+[submodule "teslo-shop"]
+	path = teslo-shop
+	url = git@github.com-RicardoMaldonado93:RicardoMaldonado93/nestjs-teslo-shop.git
+[submodule "pokedex"]
+	path = pokedex
+	url = git@github.com-RicardoMaldonado93:RicardoMaldonado93/nestjs-pokedex.git
